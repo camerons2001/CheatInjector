@@ -130,7 +130,7 @@ int main()
     // inject dll file
     inject_dll_file(process_id, L"D:\\Cheats\\OTC.dll");
 
-    // freeze for 15 second while the first dll being injected 
+    // freeze for 6 seconds while the first dll being injected 
     Sleep(6000);
 
     // inject another dll
