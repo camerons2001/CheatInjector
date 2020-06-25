@@ -1,7 +1,7 @@
 # About:
 <i>This program that injects OTC or any other dll files with one single click.</i>
 
-# Download
+# Download:
 You can download executable file here https://gofile.io/d/Q4auc8
 
 # How to use:
