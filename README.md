@@ -1,5 +1,5 @@
 # About
-This program that injects OTC or any other dll files with one single click.
+<i>This program that injects OTC or any other dll files with one single click.</i>
 
 # How to use:
 1) Open CSGO
