@@ -10,7 +10,7 @@ This program that injects OTC or any other dll files with one single click.
 You are welcome to contribute to the project's source, in order to run the project you need to install MS Visual Studio 2019.
 
 # Contributors:
-Author: https://telegram.me/Ox000b
+Author: https://telegram.me/Ox000b <br>
 Credits to: https://telegram.me/HoShiMin
 
 Thanks :D!
