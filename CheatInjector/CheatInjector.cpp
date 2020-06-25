@@ -57,7 +57,7 @@ bool inject_dll_file(DWORD process_id, const wchar_t* dll_file)
     TCHAR full_dll_path[MAX_PATH];
     GetFullPathName((LPWSTR)dll_file, MAX_PATH, (LPWSTR)full_dll_path, NULL);
 
-    // get the function LoadLibraryA
+    // get the function LoadLibraryW
     LPVOID load_library = GetProcAddress(GetModuleHandle(L"kernel32.dll"), "LoadLibraryW");
     if (load_library == NULL)
     {
@@ -92,7 +92,7 @@ bool inject_dll_file(DWORD process_id, const wchar_t* dll_file)
     }
     std::cout << "[+]Creating Remote Thread in Target Process" << std::endl;
 
-    // launch the dll using LoadLibraryA
+    // launch the dll using LoadLibraryW
     HANDLE dll_thread_handle = CreateRemoteThread(process_handle, 0, 0, (LPTHREAD_START_ROUTINE)load_library, dll_parameter_address, 0, 0);
     if (dll_thread_handle == NULL)
     {
