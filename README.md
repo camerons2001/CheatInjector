@@ -7,7 +7,7 @@ This program that automates the process of injecting OTC or any other dll file.
 3) Execute CheatInjector.exe, if it didn't inject try to launch with admin privilege!
 
 # How to contribute to the project:
-You are welcome to conntribute to the project source, in order to run the project you need to install MS Visual Studio 2019.
+You are welcome to contribute to the project's source, in order to run the project you need to install MS Visual Studio 2019.
 
 # Contributors:
 Author: https://telegram.me/Ox000b
