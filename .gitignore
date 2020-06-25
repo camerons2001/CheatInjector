@@ -1,4 +1,10 @@
 # Folders
 *.vs/
-*.Debug/
-*.x64/
+
+# Build Artifacts
+*.obj
+*.tlog
+*.idb
+*.pdb
+*.exe
+*.ilk
