@@ -10,7 +10,7 @@
 You are welcome to contribute to the project's source, in order to run the project you need to install MS Visual Studio 2019.
 
 # Contributors:
-Author: https://telegram.me/Ox000b <br>
-Credits to: https://telegram.me/HoShiMin
+<i>Author: https://telegram.me/Ox000b</i> <br>
+<i>Credits to: https://telegram.me/HoShiMin</i>
 
 Thanks :D!
