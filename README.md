@@ -13,7 +13,7 @@ You can download executable file here https://gofile.io/d/Q4auc8
 You are welcome to contribute to the project's source, in order to run the project you need to install MS Visual Studio 2019.
 
 # Contributors:
-<i>Author: https://telegram.me/Ox000b</i> <br>
+<i>Author: https://telegram.me/KamronSultanov</i> <br>
 <i>Credits to: https://telegram.me/HoShiMin</i>
 
 Thanks :D!
